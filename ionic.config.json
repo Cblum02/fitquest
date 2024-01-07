@@ -1,0 +1,8 @@
+{
+  "name": "fitquest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b8857c26"
+}
